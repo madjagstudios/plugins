@@ -1,0 +1,14 @@
+{
+  "name": "madjagstudios",
+  "description": "Claude Code plugins from MadJag Studios",
+  "owner": { "name": "MadJag Studios" },
+  "plugins": [
+    {
+      "name": "podium",
+      "description": "Hand work to any agent CLI on your machine and see and control it from one pane.",
+      "category": "development",
+      "source": { "source": "url", "url": "https://github.com/madjagstudios/podium.git", "ref": "podium--v0.1.0" },
+      "homepage": "https://github.com/madjagstudios/podium"
+    }
+  ]
+}
