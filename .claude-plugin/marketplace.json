@@ -7,7 +7,7 @@
       "name": "podium",
       "description": "Hand work to any agent CLI on your machine and see and control it from one pane.",
       "category": "development",
-      "source": { "source": "url", "url": "https://github.com/madjagstudios/podium.git", "ref": "podium--v0.2.0" },
+      "source": { "source": "url", "url": "https://github.com/madjagstudios/podium.git", "ref": "podium--v0.3.0" },
       "homepage": "https://github.com/madjagstudios/podium"
     }
   ]
