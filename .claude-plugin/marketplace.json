@@ -9,6 +9,12 @@
       "category": "development",
       "source": { "source": "url", "url": "https://github.com/madjagstudios/podium.git", "ref": "podium--v0.6.0" },
       "homepage": "https://github.com/madjagstudios/podium"
+    },
+    {
+      "name": "madjag-studio",
+      "description": "MadJag Studios' internal workflow rules, hooks and skills. Installs only for accounts with access to the studio's private repository.",
+      "category": "development",
+      "source": { "source": "git-subdir", "url": "madjagstudios/studio-ops", "path": "plugin" }
     }
   ]
 }
